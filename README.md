@@ -1,12 +1,11 @@
-### Hi there, I'm Emily :D 👋
-
+### Hi there, I'm Emily :D 
 
 <p>- ✷ Cursando Desenvolvimento de Sistemas no SENAI Jandira</p>
 
 ###
 
   <hr>
-<p align="center">Aprendendo...</p>
+<p align="center">Atualmente estou aprendendo :</p>
   
   <hr>
   <div align="center" >
